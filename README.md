@@ -7,6 +7,7 @@
 **Завдання:**
 <img width="749" height="570" alt="image" src="https://github.com/user-attachments/assets/59c5d5dc-32b3-49a2-b158-76596883313b" />
 <img width="657" height="20" alt="image" src="https://github.com/user-attachments/assets/dc96479a-8fc4-4a15-b53f-3c0b7ed2738b" />
+
 <img width="227" height="20" alt="image" src="https://github.com/user-attachments/assets/0b296883-3d33-4c2b-a405-177e713f6e43" />
 
 ### 💻 Код програми:
