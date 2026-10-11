@@ -65,6 +65,3 @@
 
 Фіксація скриншоту:
 <img width="1130" height="738" alt="image" src="https://github.com/user-attachments/assets/6856f8fc-6e72-418a-b74f-3c211ee79b2b" />
-
-
-Електронний звіт: Створіть публічний репозиторій на GitHub. Оформіть файл README.md у форматі Markdown.
